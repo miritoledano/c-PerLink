@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\preLink\bin\Debug\preLink.exe.config
+C:\Users\user1\source\repos\preLink\bin\Debug\preLink.exe
+C:\Users\user1\source\repos\preLink\bin\Debug\preLink.pdb
+C:\Users\user1\source\repos\preLink\obj\Debug\preLink.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\preLink\obj\Debug\preLink.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\preLink\obj\Debug\preLink.exe
+C:\Users\user1\source\repos\preLink\obj\Debug\preLink.pdb
